@@ -32,7 +32,8 @@ This research makes several contributions to the field of road safety analysis a
 The proposed algorithm aims to revolutionize accident severity classification in road safety modeling. By leveraging advanced machine learning techniques, our primary goal is to enhance the accuracy of predicting accident severity levels. This includes accurately distinguishing between minor, serious, and fatal accidents based on various contributing factors.
 
 The steps of the algorithm and the libraries used are depicted in the figure below.
-[Placeholder for architecture diagram]
+
+![Architecture Diagram](docs/proposed_algorithm.png)
 
 ### Architecture Diagram
 
@@ -67,9 +68,9 @@ The proposed framework is divided into two parts as follows:
 
 ## Dataset Links
 
-- [Road Accident (United Kingdom 2000-2018) Dataset](link)
-- [Road Traffic Accident Dataset of Addis Ababa City](link)
-- [US Traffic Accident Dataset (2016 - 2023)](link)
+- [Road Accident (United Kingdom 2000-2018) Dataset](https://www.kaggle.com/datasets/devansodariya/road-accident-united-kingdom-uk-dataset)
+- [Road Traffic Accident Dataset of Addis Ababa City](https://www.kaggle.com/datasets/saurabhshahane/road-traffic-accidents)
+- [US Traffic Accident Dataset (2016 - 2023)](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
 
 ## Thank You
 
