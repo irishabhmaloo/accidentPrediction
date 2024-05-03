@@ -62,9 +62,10 @@ The proposed framework is divided into two parts as follows:
   
 ## Links to Resources
 
-- [SHAP GitHub Repository](link)
-- [LIME GitHub Repository](link)
-- [SPFlow GitHub Repository](link)
+- [SHAP GitHub Repository](https://github.com/shap/shap)
+- [LIME GitHub Repository](https://github.com/marcotcr/lime)
+- [SPFlow GitHub Repository](https://github.com/SPFlow/SPFlow)
+- [CausalML GitHub Repository](https://github.com/uber/causalml)
 
 ## Dataset Links
 
