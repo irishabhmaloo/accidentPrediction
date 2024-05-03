@@ -45,9 +45,14 @@ The proposed framework is divided into two parts as follows:
 
 ## Directories' Description
 
-- `/data`: Contains the datasets used for model training and evaluation.
-- `/models`: Stores trained machine learning models.
-- `/notebooks`: Jupyter notebooks for data analysis, model training, and evaluation.
+- `/dataset`: Contains one of the dataset used for model training and evaluation. Remaining datasets can be downloaded from the links provided in [Dataset Links](https://github.com/irishabhmaloo/accidentPrediction?tab=readme-ov-file#dataset-links)
+- `/docs`: SContains the presentation slides (PPT) explaining the research project.
+- `/models`: Saved models (trained) for various datasets and algorithms used in this project.
+- `/processedData`: Processed and generated dataframes used in the project.
+- `/shap`: Implementation of SHAP (XAI) on one of the datasets.
+- `/lime`: Implementation of LIME (XAI) on one of the datasets.
+- `/spn`: Implementation of SPN on one of the datasets.
+- `/causalml`: Implementation of CausalML on one of the datasets.
 
 ## Key Features and Requirements
 
