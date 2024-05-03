@@ -45,7 +45,7 @@ The proposed framework is divided into two parts as follows:
 
 ## Directories' Description
 
-- `/dataset`: Contains one of the dataset used for model training and evaluation. Remaining datasets can be downloaded from the links provided in [Dataset Links](https://github.com/irishabhmaloo/accidentPrediction?tab=readme-ov-file#dataset-links)
+- `/dataset`: Contains one of the dataset used for model training and evaluation. Remaining datasets can be downloaded from the links provided in [Dataset Links](https://github.com/irishabhmaloo/accidentPrediction?tab=readme-ov-file#dataset-links).
 - `/docs`: SContains the presentation slides (PPT) explaining the research project.
 - `/models`: Saved models (trained) for various datasets and algorithms used in this project.
 - `/processedData`: Processed and generated dataframes used in the project.
@@ -81,3 +81,7 @@ The proposed framework is divided into two parts as follows:
 ## Thank You
 
 Special thanks to my mentors for their guidance and support throughout this project.
+
+## Contact
+
+For any inquiries or feedback, please feel free to reach out via email at therishabhrox@gmail.com.
